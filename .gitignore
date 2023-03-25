@@ -17,3 +17,8 @@ crafttweaker.log
 .ReAuth.cfg
 journeymap/icon/
 journeymap/journeymap.log
+journeymap/colorpalette.json
+journeymap/data/
+journeymap/server/
+usernamecache.json
+usercache.json
