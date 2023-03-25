@@ -1,0 +1,31 @@
+{
+	title: "Guardian Hunter",
+	x: 0.0d,
+	y: 10.5d,
+	shape: "rsquare",
+	description: "Kill 100 Temple Guardians",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7212be7a",
+		type: "kill",
+		entity: "minecraft:guardian",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "4887faf9",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "02632202",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

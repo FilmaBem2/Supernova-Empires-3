@@ -1,0 +1,30 @@
+{
+	title: "Evoker Hunter",
+	x: 2.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	description: "Kill 100 Evoker",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7770e54d",
+		type: "kill",
+		entity: "minecraft:evocation_illager",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "340d6607",
+		type: "item",
+		item: "modcurrency:banknote 1 5"
+	},
+	{
+		uid: "45b1bd22",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Spider Hunter",
+	x: 2.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Kill 100 Spiders",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b9f67ad4",
+		type: "kill",
+		entity: "minecraft:spider",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "525d6c29",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "c35ed67a",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

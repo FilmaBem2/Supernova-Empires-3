@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:0": "actuallyadditions:item_coffee",
+    "0:3": "techguns:revolver,1,0,{ammo:6s,ammovariant:\"default\",camo:0b}",
+    "0:4": "actuallyadditions:item_food,64,10",
+    "0:1": "techguns:pistol,1,0,{ammo:18s,ammovariant:\"default\",camo:0b}",
+    "0:2": "techguns:itemshared,13,11"
+  }
+}

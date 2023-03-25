@@ -1,0 +1,31 @@
+{
+	title: "Ghast Hunter",
+	x: 2.0d,
+	y: 10.5d,
+	shape: "rsquare",
+	description: "Kill 100 Ghasts",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9845682c",
+		type: "kill",
+		entity: "minecraft:ghast",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "eabf6637",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "0623882d",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

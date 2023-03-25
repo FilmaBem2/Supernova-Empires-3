@@ -1,0 +1,26 @@
+{
+	title: "Another LootTable",
+	loot_size: 1,
+	rewards: [{
+		item: "enderio:block_cap_bank 1 1",
+		weight: 13
+	},
+	{
+		item: "solarflux:solar_panel_3",
+		weight: 7
+	},
+	{
+		item: "extrautils2:ingredients 1 11",
+		weight: 3
+	},
+	{
+		item: "draconicevolution:dragon_heart"
+	},
+	{
+		item: "appliedenergistics2:inscriber",
+		weight: 2
+	},
+	{
+		item: "minecraft:nether_star"
+	}]
+}

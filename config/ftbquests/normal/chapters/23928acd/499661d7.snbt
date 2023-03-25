@@ -1,0 +1,16 @@
+{
+	x: -16.0d,
+	y: -7.0d,
+	dependencies: [
+		"437a396c"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "d13ae8bd",
+		type: "item",
+		items: [{
+			item: "randomthings:redstoneobserver"
+		}]
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "Supreme?",
+	x: 1.0d,
+	y: 4.5d,
+	shape: "octagon",
+	description: "Get Supremium",
+	text: [
+		""
+	],
+	dependencies: [
+		"538864d8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8abf1b34",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "essenceSupremium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any essenceSupremium"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "99059bcb",
+		type: "choice",
+		table: 53
+	}]
+}

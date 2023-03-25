@@ -1,0 +1,41 @@
+{
+	title: "Getting Iron",
+	x: 6.0d,
+	y: 11.5d,
+	description: "Get iron ore and smelt it",
+	text: [
+		""
+	],
+	dependencies: [
+		"6a38b067"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a1fbf959",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotIron"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "688de787",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "b4bd53bc",
+		type: "xp",
+		xp: 100
+	}]
+}

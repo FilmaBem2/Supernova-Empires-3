@@ -1,0 +1,45 @@
+{
+	title: "First type of energy",
+	x: -18.0d,
+	y: -3.0d,
+	shape: "gear",
+	description: "Collect Redstone",
+	text: [
+		"Redstone is a type of energy used for automation. This can be used on a lot of things. It's really usefull, but not the only type of energy. This can be used to power some machines when you can't generate RF Energy.",
+		"You will need Redstone to keep going and evolving. You can use redstone to give speed to your tools, to make circuits for automation, and to control some blocks.",
+		"",
+		"Redstone is usefull to craft another items too.",
+		"",
+		"Objective: ",
+		"Mine Redstone",
+		"",
+		"How to Use:",
+		"Redstone usage is a difficult thing to explain, but it you played minecraft you should know the basics, and that should be enough for you to keep going"
+	],
+	dependencies: [
+		"6a38b067"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fc6bcd25",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	}],
+	rewards: [{
+		uid: "a7139e38",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "8276b4fe",
+		type: "custom",
+		auto: "invisible"
+	},
+	{
+		uid: "ecedd445",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

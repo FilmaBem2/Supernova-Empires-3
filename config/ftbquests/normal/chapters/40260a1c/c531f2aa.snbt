@@ -1,0 +1,31 @@
+{
+	title: "Vindicator Hunter",
+	x: 2.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	description: "Kill 100 Vindicator",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fd7d8ed4",
+		type: "kill",
+		entity: "minecraft:vindication_illager",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "1992e9ff",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "aa85fa2a",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

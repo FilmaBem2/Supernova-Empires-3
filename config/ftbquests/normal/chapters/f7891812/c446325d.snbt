@@ -1,0 +1,42 @@
+{
+	title: "Arrows!",
+	x: -2.0d,
+	y: -3.0d,
+	description: "Make an Arrow or more",
+	text: [
+		"This is an optional quest",
+		"If you will make or already made a Bow you will need Arrows.",
+		"",
+		"As i told you with the bow, i suggest you to make an Intermedium Arrow",
+		"",
+		"Objective:",
+		"Make an Arrow",
+		"",
+		"How to Use:",
+		"You should know how to use an arrow"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "5947c95b",
+		type: "item",
+		items: [{
+			item: "minecraft:arrow"
+		}]
+	}],
+	rewards: [{
+		uid: "1c80dd52",
+		type: "xp_levels",
+		xp_levels: 1
+	},
+	{
+		uid: "b8fc961e",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "5abb5939",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Euro",
+	icon: "modcurrency:coin 1 4",
+	loot_size: 1,
+	rewards: [{
+		item: "modcurrency:coin 1 4",
+		count: 10
+	},
+	{
+		item: "modcurrency:coin 1 5",
+		count: 5
+	},
+	{
+		item: "modcurrency:banknote 1 2"
+	},
+	{
+		item: "modcurrency:banknote 1 1",
+		count: 2
+	}]
+}

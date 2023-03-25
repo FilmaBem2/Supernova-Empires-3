@@ -1,0 +1,26 @@
+{
+	title: "Crafting with the new pc",
+	x: 2.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	description: "Make a crafting unit",
+	text: [
+		""
+	],
+	dependencies: [
+		"9eb18959"
+	],
+	hide: true,
+	tasks: [{
+		uid: "171ab86f",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_unit"
+		}]
+	}],
+	rewards: [{
+		uid: "6c4779ef",
+		type: "random",
+		table: 28
+	}]
+}

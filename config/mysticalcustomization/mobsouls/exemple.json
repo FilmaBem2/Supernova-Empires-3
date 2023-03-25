@@ -1,0 +1,9 @@
+{
+  "name": "Test",
+  "souls": 50,
+  "entities": [
+    "minecraft:panda",
+    "minecraft:polar_bear"
+  ],
+  "color": "abcabc"
+}

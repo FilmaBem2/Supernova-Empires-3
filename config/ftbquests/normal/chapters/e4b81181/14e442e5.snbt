@@ -1,0 +1,49 @@
+{
+	title: "Starting Tinking",
+	x: 0.0d,
+	y: 1.0d,
+	shape: "gear",
+	description: "Make a Stencil Table",
+	text: [
+		"To go ahed you will need to make some tables to craft your equipment.",
+		"",
+		"I know you want to discover more about what happend to you. You will find it soon.",
+		"",
+		"",
+		"Objective:",
+		"Make a Stencil Table",
+		"",
+		"",
+		"How to Use:",
+		"You will need to craft  Blank Patterns and after that you can use them to make Stencils of different parts that are required to create tools and weapons. For example, if you are trying to get a pickaxe, you would put a Blank Pattern in the left slot of the GUI, click the Pickaxe Head Pattern button, then take it out of the right slot of the GUI. You would then repeat these steps to obtain a Tool Binding Pattern and a Tool Rod Pattern. "
+	],
+	dependencies: [
+		"7507abde"
+	],
+	hide: true,
+	tasks: [{
+		uid: "817d3e7e",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "2c8458c4",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "65893233",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,18 @@
+{ 
+	"keepInventory": { 
+		"value": true,
+		"forced": true
+	},
+	"mobGriefing": { 
+		"value": false,
+		"forced": true
+	},
+	"randomTickSpeed": { 
+		"value": 5,
+		"forced": true
+	},
+	"doWeatherCycle": { 
+		"value": false,
+		"forced": true
+	}
+}

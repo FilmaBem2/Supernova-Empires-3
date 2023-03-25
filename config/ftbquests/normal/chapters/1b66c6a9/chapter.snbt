@@ -1,0 +1,7 @@
+{
+	title: "Bosses",
+	icon: "minecraft:skull 1 5",
+	always_invisible: false,
+	group: 1829671587,
+	default_quest_shape: ""
+}

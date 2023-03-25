@@ -1,0 +1,41 @@
+{
+	title: "An usefull shard",
+	x: 4.5d,
+	y: 11.5d,
+	description: "Collect Prosperity Shard",
+	text: [
+		""
+	],
+	dependencies: [
+		"6a38b067"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f5579848",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "shardProsperity",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any shardProsperity"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "93381ed9",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "c059d04c",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Chest Upgrade",
+	x: -0.5d,
+	y: 3.0d,
+	shape: "octagon",
+	description: "Make a Golden Chest",
+	text: [
+		""
+	],
+	dependencies: [
+		"77dbd178"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9991ecaf",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "65c8740e",
+		type: "choice",
+		table: 3
+	},
+	{
+		uid: "5e667fe9",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

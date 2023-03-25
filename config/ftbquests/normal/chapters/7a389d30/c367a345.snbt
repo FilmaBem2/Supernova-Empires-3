@@ -1,0 +1,39 @@
+{
+	title: "Eletric Smelt",
+	x: 12.0d,
+	y: 5.5d,
+	description: "Make an Eletric Furnace form Extra Utilities",
+	text: [
+		""
+	],
+	dependencies: [
+		"139ad9a6"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "764e41d2",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:furnace"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e44dacd2",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "4ac523db",
+		type: "custom",
+		auto: "invisible"
+	},
+	{
+		uid: "5547336c",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

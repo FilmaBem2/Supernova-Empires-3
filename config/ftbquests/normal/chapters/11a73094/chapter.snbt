@@ -1,0 +1,7 @@
+{
+	title: "Machine Upgrades",
+	icon: "extrautils2:ingredients 1 6",
+	always_invisible: false,
+	group: -1578486078,
+	default_quest_shape: "gear"
+}

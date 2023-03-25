@@ -1,0 +1,7 @@
+{
+	title: "Hunting",
+	icon: "avaritia:infinity_bow",
+	always_invisible: false,
+	group: 1829671587,
+	default_quest_shape: "rsquare"
+}

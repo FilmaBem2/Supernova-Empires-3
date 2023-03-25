@@ -1,0 +1,183 @@
+[
+    {
+        "mob": "Zombie",
+        "remove": "minecraft:rotten_flesh"
+    },
+    {
+        "mob": "Zombie",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "Enderman",
+        "item": "modcurrency:coin@4",
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "Witch",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "Skeleton",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "minecraft:zombie_villager",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "minecraft:vindication_illager",
+        "item": "modcurrency:banknote@2",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "minecraft:zombie_pigman",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "minecraft:evocation_illager",
+        "item": "modcurrency:coin@4",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "twilightforest:naga",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "Pig",
+        "item": "minecraft:mob_spawner",
+        "random": 0.002
+    },
+    {
+        "mob": "rats:rat",
+        "item": "rats:rat_upgrade_basic",
+        "itemcount": "0-1/0-2/1-3"
+    },
+    {
+        "mob": "minecraft:blaze",
+        "item": "modcurrency:banknote@2",
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:chicken",
+        "remove": "minecraft:feather"
+    },
+    {
+        "mob": "twilightforest:lich",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:minoshroom",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:hydra",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:knight_phantom",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:ur_ghast",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:yeti_alpha",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "twilightforest:snow_queen",
+        "item": "cyclicmagic:heart_food",
+        "random": 0.004
+    },
+    {
+        "mob": "minecraft:enderman",
+        "remove": "mysticalagriculture:crafting:0"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": "mysticalagriculture:crafting:4",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:zombie_pigman",
+        "remove": "minecraft:golden_sword"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "remove": "minecraft:bow"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "item": "techguns:itemshared",
+        "itemcount": "0-1/0-1/0-2/0-1/0-1"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "item": "contenttweaker:dimensional_ingot",
+        "random": 0.004
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "item": "contenttweaker:dimensional_ingot",
+        "random": 0.004
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": "contenttweaker:dimensional_ingot",
+        "random": 0.004
+    },
+    {
+        "mob": "minecraft:zombie",
+        "item": "contenttweaker:greenstone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:creeper",
+        "item": "contenttweaker:greenstone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": "contenttweaker:blackstone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:wither_skeleton",
+        "item": "contenttweaker:blackstone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "item": "contenttweaker:whitestone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:squid",
+        "item": "contenttweaker:bluestone",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": "mysticalagriculture:crafting:4",
+        "itemcount":"1-3"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": "mysticalagriculture:crafting:4",
+        "itemcount":"1-3"
+    }
+        
+]

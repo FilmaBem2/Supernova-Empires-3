@@ -1,0 +1,15 @@
+{
+	x: -22.0d,
+	y: 1.0d,
+	dependencies: [
+		"437a396c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1865f3a0",
+		type: "item",
+		items: [{
+			item: "minecraft:comparator"
+		}]
+	}]
+}

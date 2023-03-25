@@ -1,0 +1,31 @@
+{
+	title: "Skeleton Hunter",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	description: "Kill 100 Skeletons",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3260d0dc",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "167e06ea",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "2d0e8fb1",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

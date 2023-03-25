@@ -1,0 +1,37 @@
+{
+	title: "Super...What??",
+	x: 1.0d,
+	y: 3.0d,
+	shape: "octagon",
+	description: "Get Superium",
+	text: [
+		""
+	],
+	dependencies: [
+		"a05a5a53"
+	],
+	hide: true,
+	tasks: [{
+		uid: "29363f02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "essenceSuperium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any essenceSuperium"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5c621c98",
+		type: "choice",
+		table: 51
+	}]
+}

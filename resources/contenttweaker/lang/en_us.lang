@@ -1,0 +1,68 @@
+# FB Mods Translation keys for en_US
+
+# Some new items
+item.contenttweaker.dimensional_ingot.name=Dimensional Ingot
+item.contenttweaker.crushing_plate.name=Crushing Plate
+
+# New Mekanism Control Circuits
+item.contenttweaker.wyvern_control_circuit.name=Wyvern Control Circuit
+item.contenttweaker.draconic_control_circuit=Draconic Control Circuit
+item.contenttweaker.chaotic_control_circuit.name=Chaotic Control Circuit
+
+# Color Stones
+item.contenttweaker.pinkstone.name=Pinkstone
+item.contenttweaker.purplestone.name=Purplestone
+item.contenttweaker.whitestone.name=Whitestone
+item.contenttweaker.bluestone.name=Bluestone
+item.contenttweaker.lightbluestone.name=Light Bluestone
+item.contenttweaker.greenstone.name=Greenstone
+item.contenttweaker.orangestone.name=Orangestone
+item.contenttweaker.yellowstone.name=Yellowstone
+item.contenttweaker.blackstone.name=Blackstone
+
+# Equivalent Exchanges
+item.contenttweaker.new_philosophers_stone.name=New Philosopher's Stone
+item.contenttweaker.philosophers_core.name=Philosopher's Core
+
+# Mekanism Cable Tools
+item.contenttweaker.hot_plastic.name=Hot Plastic
+item.contenttweaker.basic_cable_border.name=Basic Cable Border
+item.contenttweaker.advanced_cable_border.name=Advanced Cable Border
+item.contenttweaker.elite_cable_border.name=Elite Cable Border
+item.contenttweaker.ultimate_cable_border.name=Ultimate Cable Border
+item.contenttweaker.basic_neutral_cable.name=Basic Neutral Cable
+item.contenttweaker.advanced_neutral_cable.name=Advanced Neutral Cable
+item.contenttweaker.elite_neutral_cable.name=Elite Neutral Cable
+item.contenttweaker.ultimate_neutral_cable.name=Ultimate Neutral Cable
+
+#  Items from materials
+item.contenttweaker.dimensional_gear.name=Dimensional Gear
+item.contenttweaker.dimensional_plate.name=Dimensional Plate
+item.contenttweaker.mystical_gear.name=Mystical Gear
+item.contenttweaker.mystical_plate.name=Mystical Plate
+item.contenttweaker.universal_upgrade_gear.name=Universak Upgrade Gear
+item.contenttweaker.universal_upgrade_plate.name=Universal Upgrade Plate
+item.contenttweaker.constructs_upgrade_gear.name=Construct's Upgrade Gear
+item.contenttweaker.constructs_upgrade_plate.name=Construct's Upgrade Plate
+item.contenttweaker.mystical_ingot.name=Mystical Ingot
+item.contenttweaker.crushing_dust.name=Crushing Dust
+
+# Chickens name
+entity.test_chicken.name=Test Chicken
+entity.dimensional_chicken.name=Dimensional Chicken
+entity.mystical_chicken.name=Mystical Chicken
+entity.crushing_chicken.name=Crushing Chicken
+
+# Foodstuff
+item.contenttweaker.beer.name=Beer
+
+# Pickaxes
+item.contenttweaker.mystical_pickaxe.name=Mystical Pickaxe
+item.contenttweaker.dimensional_pickaxe.name=Dimensional Pickaxe
+
+# Fluids
+fluid.molten_mystical.name=Molten Mystical
+fluid.molten_dimensional.name=Molten Dimensional
+
+# Money
+item.contenttweaker.five_hundred_euros.name=500 Euros

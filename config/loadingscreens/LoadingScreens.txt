@@ -1,0 +1,16 @@
+
+background = addStretchedTexture("top_left", "fbmods:loading/loading.png")
+background.setRelRender(1, 1)
+
+tips = addRandomText("top_left")
+tips.setAbsXOffset(5)
+tips.setAbsYOffset(5)
+tips.addTip("Skills are very important, You will need to level up some skills to use some tools")
+tips.addTip("You can claim chunks to protect your area, open your inventory and click on the icon on your top left")
+tips.addTip("To access quests open you inventory and click on book icon on top left of the screen or next to your inventory")
+tips.addTip("Quests give you money to buy things")
+tips.addTip("Only need 30% of players to sleep on this modpack servers or multiplayer worlds")
+tips.addTip("If you like this modpack please make a donation on curseforge")
+tips.addTip("FB Mods uses Ely.by skin system for skins")
+tips.addTip("Don't forget to test another FB Mods Modpacks")
+tips.addTip("Hope you enojoy FB Mods 4")

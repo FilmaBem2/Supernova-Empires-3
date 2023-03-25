@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "23c3642c",
+		type: "item",
+		items: [{
+			item: "rats:rat_upgrade_placer"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	optional: true,
+	tasks: [{
+		uid: "e438f902",
+		type: "item",
+		items: [{
+			id: "xnet:netcable",
+			tag: {
+				display: {
+					LocName: "tile.xnet.netcable_blue.name"
+				}
+			}
+		}]
+	}]
+}

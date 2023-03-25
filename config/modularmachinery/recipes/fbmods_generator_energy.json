@@ -1,0 +1,21 @@
+{
+    "machine": "fbmods_generator",
+    "registryName": "fbmods_generator_energy",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 1000
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 10000000
+        }
+        
+
+    ]
+
+}

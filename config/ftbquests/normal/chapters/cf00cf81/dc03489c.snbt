@@ -1,0 +1,30 @@
+{
+	title: "Basic Loot Box",
+	icon: "mekanism:cardboardbox",
+	disable_toast: true,
+	x: -1.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "A Basic Loot Box with a cost of 100 Euros",
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"5207431f"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "e1e98b4e",
+		type: "item",
+		items: [{
+			item: "modcurrency:banknote 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "8f2df688",
+		type: "random",
+		table: 57
+	}]
+}

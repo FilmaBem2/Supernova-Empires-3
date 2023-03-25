@@ -1,0 +1,295 @@
+[
+    {
+        "mode": "ADD",
+        "result": "[securitycraft:keypad_chest]",
+        "catalyst": "[minecraft:chest]",
+        "energy": 1000,
+        "tier": 0,
+        "ingredients": [
+            "[mysticalagriculture:crafting]:33",
+            "[mysticalagriculture:crafting]:33",
+            "[mysticalagriculture:crafting]:33",
+            "[mysticalagriculture:crafting]:33",
+            "[mysticalagriculture:crafting]:33",
+            "[mysticalagriculture:crafting]:33"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[mekanism:machineblock]:4",
+        "catalyst": "[rftools:builder]",
+        "energy": 1000,
+        "tier": 2,
+        "ingredients": [
+            "[minecraft:ender_pearl]",
+            "[minecraft:redstone]",
+            "[minecraft:ender_pearl]",
+            "[minecraft:redstone]",
+            "[mekanism:controlcircuit]:0",
+            "[minecraft:redstone]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[draconicevolution:draconic_hoe]",
+        "catalyst": "[mysticalagriculture:supremium_hoe]",
+        "energy": 61000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:awakened_core]",
+            "[draconicevolution:draconic_ingot]",
+            "[draconicevolution:draconic_energy_core]",
+            "[draconicevolution:draconic_ingot]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:storage_cell_1k]",
+        "catalyst": "[appliedenergistics2:material]:22",
+        "energy": 10000000000,
+        "tier": 2,
+        "ingredients": [
+            "[mysticalagriculture:crafting]:35",
+            "[mysticalagriculture:intermedium_apple]",
+            "[mysticalagriculture:crafting]:35",
+            "[minecraft:blaze_rod]",
+            "[mysticalagriculture:crafting]:2",
+            "[ironchest:iron_gold_chest_upgrade]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:material]:22",
+        "catalyst": "[appliedenergistics2:material]:18",
+        "energy": 10000,
+        "tier": 2,
+        "ingredients": [
+            "[minecraft:gold_ingot]",
+            "[minecraft:diamond]",
+            "[minecraft:gold_ingot]",
+            "[minecraft:diamond]",
+            "[appliedenergistics2:material]:42",
+            "[minecraft:gold_block]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:material]:18",
+        "catalyst": "[appliedenergistics2:material]:15",
+        "energy": 10000,
+        "tier": 2,
+        "ingredients": [
+            "[minecraft:glowstone_dust]",
+            "[minecraft:redstone]",
+            "[minecraft:glowstone_dust]",
+            "[minecraft:redstone]",
+            "[minecraft:glowstone_dust]",
+            "[minecraft:quartz]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:storage_cell_4k]",
+        "catalyst": "[appliedenergistics2:storage_cell_1k]",
+        "energy": 10000000000,
+        "tier": 2,
+        "ingredients": [
+            "[ironchest:gold_diamond_chest_upgrade]",
+            "[mysticalagriculture:superium_apple]",
+            "[ironchest:gold_diamond_chest_upgrade]",
+            "[minecraft:blaze_rod]",
+            "[ironchest:gold_diamond_chest_upgrade]",
+            "[mysticalagriculture:crafting]:2"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:storage_cell_16k]",
+        "catalyst": "[appliedenergistics2:storage_cell_4k]",
+        "energy": 10000000000,
+        "tier": 2,
+        "ingredients": [
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[mysticalagriculture:supremium_apple]",
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[minecraft:blaze_rod]",
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[mysticalagriculture:crafting]:2"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:storage_cell_64k]",
+        "catalyst": "[appliedenergistics2:storage_cell_16k]",
+        "energy": 10000000000,
+        "tier": 2,
+        "ingredients": [
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[mysticalagriculture:supremium_apple]",
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[minecraft:blaze_rod]",
+            "[ironchest:diamond_crystal_chest_upgrade]",
+            "[refinedstorage:upgrade]:0"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[cyclicmagic:auto_crafter]",
+        "catalyst": "[tconstruct:tooltables]:0",
+        "energy": 61000,
+        "tier": 2,
+        "ingredients": [
+            "[minecraft:log]",
+            "[minecraft:log]",
+            "[minecraft:log]",
+            "[minecraft:log]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[avaritia:compressed_crafting_table]",
+        "catalyst": "[cyclicmagic:auto_crafter]",
+        "energy": 1000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_block]",
+            "[draconicevolution:draconium_block]:0",
+            "[projecte:matter_block]:0",
+            "[projecte:item.pe_gem_armor_2]",
+            "[projecte:matter_block]:1",
+            "[draconicevolution:dragon_heart]",
+            "[enderio:block_cap_bank]:0",
+            "[enderio:block_cap_bank]:0"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[avaritia:double_compressed_crafting_table]",
+        "catalyst": "[avaritia:compressed_crafting_table]",
+        "energy": 1000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_block]",
+            "[draconicevolution:draconium_block]:0",
+            "[draconicevolution:draconium_capacitor]:1",
+            "[projecte:item.pe_gem_armor_2]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[mekanism:machineblock]:4",
+            "[mekanism:machineblock]:4"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[avaritia:extreme_crafting_table]",
+        "catalyst": "[avaritia:double_compressed_crafting_table]",
+        "energy": 1000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconium_capacitor]:1",
+            "[projecte:item.pe_gem_armor_2]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[mekanism:machineblock]:4",
+            "[mekanism:machineblock]:4"
+        ]
+    },
+    {
+        
+        "mode": "ADD",
+        "result": "[avaritia:neutron_collector]",
+        "catalyst": "[avaritia:extreme_crafting_table]",
+        "energy": 1000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:crafting_injector]:3",
+            "[projecte:item.pe_gem_armor_2]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[draconicevolution:crafting_injector]:3",
+            "[avaritia:resource]:1"
+        ]
+        
+    },
+    {
+        
+        "mode": "ADD",
+        "result": "[extendedcrafting:table_basic]",
+        "catalyst": "[avaritia:extreme_crafting_table]",
+        "energy": 1000000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:crafting_injector]:3",
+            "[avaritia:double_compressed_crafting_table]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[avaritia:double_compressed_crafting_table]",
+            "[avaritia:resource]:1"
+        ]
+        
+    },
+    {
+        
+        "mode": "ADD",
+        "result": "[extendedcrafting:table_advanced]",
+        "catalyst": "[extendedcrafting:table_basic]",
+        "energy": 1000000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:crafting_injector]:3",
+            "[avaritia:double_compressed_crafting_table]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[avaritia:double_compressed_crafting_table]",
+            "[avaritia:resource]:1"
+        ]
+        
+    },
+    {
+        
+        "mode": "ADD",
+        "result": "[extendedcrafting:table_elite]",
+        "catalyst": "[extendedcrafting:table_advanced]",
+        "energy": 1000000000000000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:crafting_injector]:3",
+            "[avaritia:double_compressed_crafting_table]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[avaritia:double_compressed_crafting_table]",
+            "[avaritia:resource]:1"
+        ]
+        
+    },
+    {
+        
+        "mode": "ADD",
+        "result": "[extendedcrafting:table_ultimate]",
+        "catalyst": "[extendedcrafting:table_elite]",
+        "energy": 1000000000000000000,
+        "tier": 3,
+        "ingredients": [
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:draconic_staff_of_power]",
+            "[draconicevolution:crafting_injector]:3",
+            "[avaritia:double_compressed_crafting_table]",
+            "[draconicevolution:crafting_injector]:3",
+            "[draconicevolution:dragon_heart]",
+            "[avaritia:double_compressed_crafting_table]",
+            "[avaritia:resource]:1"
+        ]
+        
+    }
+    
+]

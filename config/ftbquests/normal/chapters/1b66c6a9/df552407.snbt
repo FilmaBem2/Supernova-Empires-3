@@ -1,0 +1,31 @@
+{
+	title: "Elder Guardian Murder",
+	x: -8.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "Kill 1 Elder Guardian",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "88235461",
+		type: "kill",
+		entity: "minecraft:elder_guardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f336beed",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "9cd4abee",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Cents",
+	icon: "modcurrency:coin 1 2",
+	loot_size: 1,
+	rewards: [{
+		item: "modcurrency:coin",
+		count: 50
+	},
+	{
+		item: "modcurrency:coin 1 1",
+		count: 10
+	},
+	{
+		item: "modcurrency:coin 1 2",
+		count: 5
+	},
+	{
+		item: "modcurrency:coin 1 3",
+		count: 2
+	}]
+}

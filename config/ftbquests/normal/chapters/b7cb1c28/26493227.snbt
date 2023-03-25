@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 1.0d,
+	dependencies: [
+		"df266aff"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8d9a73c7",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5b04c1c",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

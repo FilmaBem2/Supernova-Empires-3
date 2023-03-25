@@ -1,0 +1,34 @@
+{
+	title: "Turning Golden",
+	x: -1.0d,
+	y: 1.0d,
+	shape: "octagon",
+	description: "Make Iron to Gold Upgrade",
+	text: [
+		""
+	],
+	dependencies: [
+		"3cd4b89b"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "a3587880",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_gold_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9d20539e",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "ed8581a2",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

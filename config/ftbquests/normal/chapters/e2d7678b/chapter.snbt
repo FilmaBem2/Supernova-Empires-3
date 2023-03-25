@@ -1,0 +1,7 @@
+{
+	title: "Redstone Paste",
+	icon: "redstonepaste:redstonepaste",
+	always_invisible: false,
+	group: -1578486078,
+	default_quest_shape: "gear"
+}

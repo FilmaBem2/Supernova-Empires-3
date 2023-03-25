@@ -1,0 +1,31 @@
+{
+	title: "Creeper Hunter",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	description: "Kill 100 Creepers",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ffa835b4",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "125c5433",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 40
+	},
+	{
+		uid: "a427cebd",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

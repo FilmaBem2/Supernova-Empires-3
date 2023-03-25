@@ -1,0 +1,31 @@
+{
+	title: "Cave Spider Hunter",
+	x: 2.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	description: "Kill 100 Cave Spiders",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "92b34ad1",
+		type: "kill",
+		entity: "minecraft:cave_spider",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "bef7a827",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "60d0379a",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

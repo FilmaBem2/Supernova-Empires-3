@@ -1,0 +1,39 @@
+{
+	title: "A usefull tool",
+	x: 0.0d,
+	y: 0.5d,
+	shape: "circle",
+	description: "Make a Furnace",
+	text: [
+		"You need to make a Furnace to smelt you ores and cook some food.",
+		"I know is too slow, but for now is what you can make. You will be able to make better Furnaces when you get the items needed.",
+		"",
+		"Objective:",
+		"Make a Furnace",
+		"",
+		"How to Use:",
+		"Put an item on a Furnace and some fuel to use it"
+	],
+	dependencies: [
+		"7507abde"
+	],
+	hide: true,
+	size: 1.7d,
+	tasks: [{
+		uid: "2452dcf8",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "12e10915",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "14bf36bd",
+		type: "xp",
+		xp: 100
+	}]
+}

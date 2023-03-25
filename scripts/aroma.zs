@@ -1,0 +1,2 @@
+// Mining Multi Tool
+recipes.addShaped(<aroma1997sdimension:miningmultitool>, [[<minecraft:stonebrick>, <mysticalagriculture:inferium_pickaxe>, <minecraft:stonebrick>],[null, <minecraft:flint_and_steel>, null], [null, <minecraft:stick>, null]]);

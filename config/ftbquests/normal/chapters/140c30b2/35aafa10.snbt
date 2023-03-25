@@ -1,0 +1,37 @@
+{
+	title: "Big Green",
+	x: 1.0d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "Get Prudentium",
+	text: [
+		""
+	],
+	dependencies: [
+		"81633492"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8ce5e4ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "essencePrudentium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any essencePrudentium"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "eaf531a0",
+		type: "choice",
+		table: 50
+	}]
+}

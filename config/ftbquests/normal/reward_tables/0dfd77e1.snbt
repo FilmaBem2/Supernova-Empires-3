@@ -1,0 +1,189 @@
+{
+	title: "Loot Box 500 Euro",
+	loot_size: 1,
+	rewards: [{
+		item: "twilightforest:boss_spawner"
+	},
+	{
+		item: "twilightforest:boss_spawner 1 2"
+	},
+	{
+		item: "minecraft:stone"
+	},
+	{
+		xp: 100,
+		type: "xp"
+	},
+	{
+		xp_levels: 13,
+		type: "xp_levels"
+	},
+	{
+		item: "minecraft:sapling 1 2"
+	},
+	{
+		item: "minecraft:sapling 1 1"
+	},
+	{
+		item: "minecraft:sapling 1 5"
+	},
+	{
+		item: "minecraft:bedrock"
+	},
+	{
+		item: "minecraft:sand 1 1"
+	},
+	{
+		item: "minecraft:leaves 1 2"
+	},
+	{
+		item: "minecraft:glass"
+	},
+	{
+		item: "minecraft:gravel"
+	},
+	{
+		item: "minecraft:grass"
+	},
+	{
+		item: "minecraft:dirt"
+	},
+	{
+		item: "enderio:block_powered_spawner"
+	},
+	{
+		item: {
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:enderman"
+			}
+		}
+	},
+	{
+		item: {
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:chicken"
+			}
+		}
+	},
+	{
+		item: {
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:skeleton"
+			}
+		}
+	},
+	{
+		item: {
+			id: "enderio:block_powered_spawner",
+			tag: {
+				entityId: "minecraft:wither_skeleton"
+			}
+		}
+	},
+	{
+		item: "extrautils2:lawsword"
+	},
+	{
+		item: "industrialforegoing:mob_imprisonment_tool"
+	},
+	{
+		item: "deathnote:death_note_page"
+	},
+	{
+		item: "minecraft:wooden_button"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"customnpcs:itemscripteddata": {}
+			},
+			id: "contenttweaker:material_part",
+			Count: 1b,
+			Damage: 33s
+		}
+	},
+	{
+		item: "minecraft:bed"
+	},
+	{
+		item: {
+			id: "tconstruct:crossbow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 3,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.2f,
+					Range: 0.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.5f,
+					DrawSpeed: 0.2f,
+					FreeModifiers: 7,
+					ProjectileBonusDamage: -1.5f,
+					Durability: 168,
+					HarvestLevel: 1,
+					Attack: 6.2f,
+					Range: 0.4f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"launcher"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"prismarine",
+						"prismarine",
+						"prismarine",
+						"string"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "aquadynamic",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "jagged",
+					color: -8462660,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"aquadynamic",
+					"jagged",
+					"toolleveling"
+				]
+			}
+		}
+	},
+	{
+		item: "fluxnetworks:flux"
+	},
+	{
+		item: "securitycraft:diamond_mine"
+	},
+	{
+		item: "extrautils2:wateringcan"
+	},
+	{
+		item: "randomthings:advancedredstonetorch_on"
+	}]
+}

@@ -1,0 +1,107 @@
+{
+	title: "Loot Box 100 Euro",
+	icon: "mekanism:cardboardbox",
+	loot_size: 1,
+	rewards: [{
+		item: "mekanismgenerators:generator 1 6",
+		weight: 7
+	},
+	{
+		item: "mekanismgenerators:generator 1 5",
+		weight: 7
+	},
+	{
+		item: "solarflux:solar_panel_3",
+		weight: 10
+	},
+	{
+		item: "solarflux:solar_panel_4"
+	},
+	{
+		item: "solarflux:solar_panel_5"
+	},
+	{
+		item: "solarflux:solar_panel_6"
+	},
+	{
+		item: "solarflux:solar_panel_8"
+	},
+	{
+		item: "solarflux:solar_panel_wyvern"
+	},
+	{
+		item: "solarflux:solar_panel_draconic"
+	},
+	{
+		item: {
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_netherstar"
+			}
+		}
+	},
+	{
+		item: "extrautils2:passivegenerator 1 3",
+		weight: 10
+	},
+	{
+		item: "extrautils2:passivegenerator 1 2",
+		weight: 10
+	},
+	{
+		item: "cyclicmagic:ender_tnt_6",
+		weight: 10
+	},
+	{
+		item: "minecraft:sapling 1 3",
+		weight: 10
+	},
+	{
+		item: "minecraft:glass",
+		weight: 10
+	},
+	{
+		item: "minecraft:ender_chest",
+		weight: 10
+	},
+	{
+		item: "minecraft:deadbush",
+		weight: 10
+	},
+	{
+		item: "minecraft:stone_button",
+		weight: 10
+	},
+	{
+		item: "securitycraft:security_camera",
+		weight: 10
+	},
+	{
+		item: "minecraft:yellow_flower",
+		weight: 10
+	},
+	{
+		item: "minecraft:sapling 1 2",
+		weight: 10
+	},
+	{
+		item: "minecraft:sand",
+		weight: 10
+	},
+	{
+		item: "minecraft:sapling",
+		weight: 10
+	},
+	{
+		item: "minecraft:anvil",
+		weight: 10
+	},
+	{
+		item: "minecraft:tallgrass 1 1",
+		weight: 10
+	},
+	{
+		item: "minecraft:web",
+		weight: 10
+	}]
+}

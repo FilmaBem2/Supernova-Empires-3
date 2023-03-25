@@ -1,0 +1,25 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	shape: "diamond",
+	dependencies: [
+		"dd5d68bf"
+	],
+	tasks: [{
+		uid: "78372592",
+		type: "item",
+		items: [{
+			item: "contenttweaker:wyvern_control_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "081ec9f0",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "8cc0df32",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

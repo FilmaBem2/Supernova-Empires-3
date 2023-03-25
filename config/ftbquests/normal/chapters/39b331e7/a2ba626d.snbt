@@ -1,0 +1,31 @@
+{
+	title: "Building the Tools",
+	x: -2.5d,
+	y: -5.0d,
+	shape: "gear",
+	description: "Make a Casting table",
+	text: [
+		""
+	],
+	dependencies: [
+		"961234f3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a06f0d9e",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	}],
+	rewards: [{
+		uid: "5e710f31",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "882f0f4e",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

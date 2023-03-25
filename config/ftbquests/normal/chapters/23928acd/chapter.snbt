@@ -1,0 +1,7 @@
+{
+	title: "Redstone",
+	icon: "minecraft:redstone",
+	always_invisible: false,
+	group: -1578486078,
+	default_quest_shape: "gear"
+}

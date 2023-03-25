@@ -1,0 +1,18 @@
+{
+	title: "Crafting",
+	icon: "minecraft:crafting_table",
+	always_invisible: false,
+	group: -263682911,
+	default_quest_shape: "",
+	images: [{
+		x: -0.5d,
+		y: 1.0d,
+		width: 30.0d,
+		height: 30.0d,
+		rotation: 0.0d,
+		image: "fbmods:quests/images/starting.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

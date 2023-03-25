@@ -1,0 +1,32 @@
+{
+	title: "End of All Storage",
+	x: 1.0d,
+	y: 1.5d,
+	shape: "octagon",
+	description: "Make an Ender Chest",
+	text: [
+		""
+	],
+	dependencies: [
+		"449ce708"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "f639e96c",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "238877b1",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "d93e9984",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

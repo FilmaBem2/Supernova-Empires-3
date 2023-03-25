@@ -1,0 +1,46 @@
+{
+	title: "Another Table",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "gear",
+	description: "Make a Part Builder",
+	text: [
+		"Apparently your memory was wipped on your last boos fight, something made you a huge damage on your head. I still don't know what happed to your tools and armor,  you will have to make another tools and armor to fight that boss again and recover your memory",
+		"",
+		"Objective:",
+		"Make a Part Builder",
+		"",
+		"How to Use:",
+		"The Part Builder is used to turn materials into tool parts. A tool-part pattern is placed in the left-hand side of the GUI (in one of the slots containing a square). The material to be used is then place next to the pattern. This will craft the tool part.",
+		"Unfortunately, the Part Builder can only be used to make parts out of certain materials, typically the most basic ones. To make a part out of the other materials, you need to use a Smeltery.  "
+	],
+	dependencies: [
+		"14e442e5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5f9b9efd",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}]
+	}],
+	rewards: [{
+		uid: "13e09170",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "426648da",
+		type: "xp",
+		xp: 100
+	}]
+}

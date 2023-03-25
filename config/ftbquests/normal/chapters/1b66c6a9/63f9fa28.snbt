@@ -1,0 +1,31 @@
+{
+	title: "Wither Murder",
+	x: -7.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "Kill 1 Wither Boss",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ca417adb",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "850807ff",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 5
+	},
+	{
+		uid: "bb75c1e3",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

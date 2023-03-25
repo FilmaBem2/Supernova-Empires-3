@@ -1,0 +1,7 @@
+{
+	title: "Market",
+	icon: "modcurrency:banknote 1 3",
+	always_invisible: false,
+	group: 111787394,
+	default_quest_shape: "octagon"
+}

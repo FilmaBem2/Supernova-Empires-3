@@ -1,0 +1,30 @@
+{
+	title: "Medium Loot Box",
+	icon: "mekanism:cardboardbox",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "A Medium Loot Box with a cost of 500 Euros",
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"5207431f"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "72a447c9",
+		type: "item",
+		items: [{
+			item: "modcurrency:banknote 1 5"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "0c8be0f0",
+		type: "random",
+		table: 58
+	}]
+}

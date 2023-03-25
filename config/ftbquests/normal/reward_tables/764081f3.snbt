@@ -1,0 +1,31 @@
+{
+	title: "Ultra rare",
+	loot_size: 1,
+	rewards: [{
+		item: "avaritia:resource 1 5"
+	},
+	{
+		item: "draconicevolution:awakened_core",
+		weight: 3
+	},
+	{
+		item: "mysticalagriculture:crafting 1 4",
+		weight: 9
+	},
+	{
+		item: "mysticalagriculture:soulium_dagger",
+		weight: 9
+	},
+	{
+		item: "tconstruct:materials 1 50",
+		weight: 7
+	},
+	{
+		item: "minecraft:totem_of_undying",
+		weight: 7
+	},
+	{
+		item: "ironchest:iron_chest 1 5",
+		weight: 9
+	}]
+}

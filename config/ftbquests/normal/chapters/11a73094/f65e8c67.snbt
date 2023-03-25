@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "662f6401",
+		type: "item",
+		items: [{
+			id: "rats:rat_upgrade_whitelist",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

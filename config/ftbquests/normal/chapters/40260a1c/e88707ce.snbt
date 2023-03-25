@@ -1,0 +1,31 @@
+{
+	title: "Slime Hunter",
+	x: 2.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	description: "Kill 100 Slimes",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a44a4e5f",
+		type: "kill",
+		entity: "minecraft:slime",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "94889cd6",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 2
+	},
+	{
+		uid: "fd4535c7",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

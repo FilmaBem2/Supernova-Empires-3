@@ -1,0 +1,32 @@
+{
+	title: "Spawner Changer",
+	x: 8.5d,
+	y: -5.0d,
+	shape: "octagon",
+	text: [
+		"Make a soul binder to change spawners",
+		"You can change the spawner with a soul binder with a mob inside"
+	],
+	dependencies: [
+		"03713c95"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "08f36d3c",
+		type: "item",
+		items: [{
+			item: "enderio:block_soul_binder"
+		}]
+	}],
+	rewards: [{
+		uid: "8b3837f6",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "4d1b2b1f",
+		type: "item",
+		item: "modcurrency:banknote 1 5"
+	}]
+}

@@ -1,0 +1,97 @@
+{
+	title: "Making the first weapon",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Make a Stone Longsword",
+	text: [
+		"Now you need to make a weapon. A Longsword is a good weapon.",
+		"",
+		"Now i will start explainning you a thing. This is the only way we can communicate, but this you already know, i'll give you some tips here.",
+		"I'll talk about the things on the quests to help you to decide what is better to you on optional quests.",
+		"",
+		"Objective:",
+		"Make a Stone Longsword",
+		"",
+		"How to Use:",
+		"You can use it like a normal Sword but you can use Right-Click to load a jump higher then normal and release the mouse button to release to jump."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e324811a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9ade6e5e",
+		type: "item",
+		items: [{
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 21,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 7,
+					Durability: 16,
+					HarvestLevel: 1,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"stone",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "cheap",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "cheapskate",
+					color: -6710887,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"cheap",
+					"cheapskate",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0327b932",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "bf14c8ec",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

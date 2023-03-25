@@ -1,0 +1,29 @@
+{
+	title: "Sell Crystal Matrix",
+	disable_toast: true,
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "7d72a38a",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 1"
+		}],
+		count: 900L
+	}],
+	rewards: [{
+		uid: "9fd6d3e2",
+		type: "item",
+		item: "modcurrency:banknote 1 5"
+	},
+	{
+		uid: "c932495c",
+		type: "item",
+		item: "modcurrency:banknote 1 4"
+	}]
+}

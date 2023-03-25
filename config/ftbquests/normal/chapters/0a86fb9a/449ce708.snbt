@@ -1,0 +1,49 @@
+{
+	title: "Storage Basics",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "Make a chest",
+	text: [
+		"As you already know a chest is a good place to keep your items safe, but it's not too safe, you can get ir saffer and even get more space, and i think you should get more space  on your chests.",
+		"I will teach you how to get better chests, but for now, Make a normal chest.",
+		"",
+		"Objective:",
+		"Make  a Chest",
+		"",
+		"How to Use:",
+		"You already know how to use a chest"
+	],
+	dependencies: [
+		"7507abde"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8c2ea03f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "chestWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any chestWood"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ae009fc2",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "cd347ea0",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

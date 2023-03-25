@@ -1,0 +1,42 @@
+{
+	title: "Long Distance",
+	x: -2.0d,
+	y: -1.5d,
+	description: "Make a Bow",
+	text: [
+		"This is an optional item. A Bow is a good weapon in general, but the first bow i think it's not the best Bow for you. I suggest you to make an Intermedium Bow or better.",
+		"But until you get the needed resouces you can make an Inferium Bow easy.",
+		"",
+		"Objective:",
+		"Make a Bow",
+		"",
+		"How to Use:",
+		"This is a normal Bow. you should know how to use it"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "9677e414",
+		type: "item",
+		items: [{
+			item: "minecraft:bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b68bf0f",
+		type: "xp_levels",
+		xp_levels: 1
+	},
+	{
+		uid: "f6cca414",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "ae3fbd38",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

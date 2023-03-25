@@ -1,0 +1,35 @@
+# Config
+ftbbackups.general=Geral
+ftbbackups.general.silent=Silêncioso
+ftbbackups.general.backups_to_keep=Cópias de Segurança a Manter
+ftbbackups.general.backup_timer=Temporizador de Cópiad de Segurança
+ftbbackups.general.compression_level=Nível de Compressão
+ftbbackups.general.folder=Pasta
+ftbbackups.general.display_file_size=Mostrar Tamanho do Ficheiro
+ftbbackups.general.use_separate_thread=Usar Thread Separado
+ftbbackups.general.extra_files=Ficheiros Extra
+ftbbackups.general.max_total_size=Tamanho Total Máximo
+ftbbackups.general.disable_level_saving=Desativar Gravação do Mundo
+ftbbackups.general.only_if_players_online=Fazer Cópia de Segurança Apenas se os Jogadores Estiverem Online
+ftbbackups.general.force_on_shutdown=Forçar uma Cópia de Segurança ao Desligar
+ftbbackups.general.buffer_size=Tamanho do Buffer
+
+# Misc
+ftbbackups.lang.timer=Cópia de Segurança do Servidor Concluida em: %s
+ftbbackups.lang.timer_progress=[%d%% | %d / %d]
+ftbbackups.lang.start=Cópia de Segurança do Servidor Iniciada!
+ftbbackups.lang.end_1=Cópia de Segurança do Servidor Concluida em %s!
+ftbbackups.lang.end_2=Cópia de Segurança do Servidor Concluida em %s! (%s)
+ftbbackups.lang.fail=Faha ao Guardar o Mundo! (%s)
+ftbbackups.lang.manual_launch=%s Iniciou uma Cópia de Segurança Manualmente!
+ftbbackups.lang.already_running=Cópia de Segurança em Progresso!
+ftbbackups.lang.size.1=Tamanho Deste Mundo: %s
+ftbbackups.lang.size.2=Tamanho Total da Pasta de Cópias de Segurança: %s
+ftbbackups.lang.size.3=Disponível: %s
+ftbbackups.lang.saving_failed=Falha ao Guardar o Mundo!
+
+# Commands
+commands.backup.usage=/backup
+commands.backup.start.usage=/backup start [nome personalizado]
+commands.backup.time.usage=/backup time
+commands.backup.size.usage=/backup size

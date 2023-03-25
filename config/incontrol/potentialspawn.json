@@ -1,0 +1,44 @@
+[
+    {
+        "mob": "minecraft:enderman",
+        "dimension": 77,
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+    },
+    {
+        "mob": "minecraft:enderman",
+        "dimension": 0,
+        "weight": 5,
+        "groupcountmin": 5,
+        "groupcountmax": 7
+    },
+    {
+        "mob": "minecraft:blaze",
+        "dimension": 77,
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+    },
+    {
+        "mob": "iceandfire:firedragon",
+        "dimension": 77,
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    },
+    {
+        "mob": "iceandfire:icedragon",
+        "dimension": 77,
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    },
+    {
+        "mob": "minecraft:wither",
+        "dimension": -1,
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }
+]

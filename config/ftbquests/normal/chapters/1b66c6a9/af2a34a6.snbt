@@ -1,0 +1,36 @@
+{
+	title: "We Never Forget The First Time",
+	x: -8.5d,
+	y: 0.5d,
+	shape: "rsquare",
+	description: "Kill 1 Naga",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bc5e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "43502e75",
+		type: "kill",
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "07fe8579",
+		type: "item",
+		item: "modcurrency:banknote 1 5",
+		count: 5
+	},
+	{
+		uid: "aabbce3e",
+		type: "item",
+		item: "cyclicmagic:heart_food"
+	},
+	{
+		uid: "7c2c76cb",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

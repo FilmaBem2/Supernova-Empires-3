@@ -1,0 +1,30 @@
+{
+	title: "Energized Paste",
+	x: -1.5d,
+	y: -1.0d,
+	shape: "gear",
+	description: "Make Redstone Paste",
+	text: [
+		"This is an Optional Quest.",
+		"Redstone Paste is a paste made of Redstone. A combination do Slime and Redstone. it's usefull to make automation simple. You can use Redstone Paste on walls and roofts too.",
+		"This Logic applies to the Repeater and Comparator.",
+		"",
+		"Objective:",
+		"Make Redstone Paste",
+		"",
+		"How to Use:",
+		"Use just like normal redstone, but you control where it connects"
+	],
+	dependencies: [
+		"437a396c"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "97b30066",
+		type: "item",
+		items: [{
+			item: "redstonepaste:redstonepaste"
+		}]
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Ultimate Loot Box",
+	icon: "mekanism:cardboardbox",
+	x: 1.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	description: "A Loot Box with a cost of 3000 Euros",
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"5207431f"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "fcb5c3af",
+		type: "item",
+		items: [{
+			item: "modcurrency:banknote 1 5"
+		}],
+		count: 30L
+	}],
+	rewards: [{
+		uid: "247a9924",
+		type: "random",
+		table: 59
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Diamond Level Chest",
+	x: -0.5d,
+	y: 4.5d,
+	shape: "octagon",
+	description: "Make a Diamond Chest",
+	text: [
+		""
+	],
+	dependencies: [
+		"f244a558"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5b718b1b",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "00b4d63a",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "e3069ea9",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

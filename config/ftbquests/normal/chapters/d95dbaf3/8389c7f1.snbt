@@ -1,0 +1,27 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	dependencies: [
+		"4d411280"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cc94a08c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:inferium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b7adf63f",
+		type: "custom",
+		auto: "invisible"
+	},
+	{
+		uid: "e1f91c68",
+		type: "random",
+		table: 3
+	}]
+}

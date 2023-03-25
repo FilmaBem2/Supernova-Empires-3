@@ -1,0 +1,34 @@
+sidebar_button.ftbmoney.shop=Loja
+key.ftbmoney.shop=Abrir Loja
+
+ftbmoney.balance=Dinheiro
+ftbmoney.buy=Comprar
+ftbmoney.sell=Vender
+
+ftbmoney.shop.tab.title=Título
+ftbmoney.shop.tab.icon=Ícone
+ftbmoney.shop.tab.lock=Bloquear
+ftbmoney.shop.tab.sort=Ordenar
+ftbmoney.shop.tab.sort.price_h_l=Do mais caro para o mais barato
+ftbmoney.shop.tab.sort.price_l_h=Do mais barato para o mais caro
+ftbmoney.shop.tab.sort.name_a_z=De A a Z
+ftbmoney.shop.tab.sort.name_z_a=De Z a A
+
+ftbmoney.shop.entry.item=Item
+ftbmoney.shop.entry.buy=Preço de Compra
+ftbmoney.shop.entry.sell=Preço de Venda
+ftbmoney.shop.entry.lock=Bloquear
+ftbmoney.shop.entry.disabled_server=Desativado no Servidor
+
+ftbquests.task.ftbmoney.money=Dinheiro
+ftbquests.reward.ftbmoney.money=Dinheiro
+
+commands.ftbmoney.money.usage=/money
+commands.ftbmoney.pay.usage=/pay <jogador> <quantidade>
+commands.ftbmoney.setmoney.usage=/setmoney <jogador> <quantidade>
+commands.ftbmoney.setmoney.add=Adicionado %s ao dinheiro de %s
+commands.ftbmoney.setmoney.set=Definido o dinheiro de %s para %s
+
+commands.ftbmoney.import_shop_items_from_chest.usage=/import_shop_items_from_chest <tab> [preço] [substituir]
+commands.ftbmoney.import_shop_items_from_chest.invalid_id=ID de tabela inválida!
+commands.ftbmoney.import_shop_items_from_chest.text=Importados %d itens em %s

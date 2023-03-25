@@ -1,0 +1,24 @@
+{
+	title: "Sell Cobblestone",
+	disable_toast: true,
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "19bd52f0",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 192L
+	}],
+	rewards: [{
+		uid: "db368901",
+		type: "item",
+		item: "modcurrency:banknote 1 2"
+	}]
+}

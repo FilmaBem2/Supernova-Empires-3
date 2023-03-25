@@ -1,0 +1,31 @@
+{
+	title: "Drive Storage",
+	x: 0.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	description: "Make an Me Drive",
+	text: [
+		"This is were you storage your disks"
+	],
+	dependencies: [
+		"9eb18959"
+	],
+	hide: true,
+	tasks: [{
+		uid: "79fea75d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:drive"
+		}]
+	}],
+	rewards: [{
+		uid: "48f3909b",
+		type: "xp_levels",
+		xp_levels: 13
+	},
+	{
+		uid: "93035658",
+		type: "random",
+		table: 27
+	}]
+}

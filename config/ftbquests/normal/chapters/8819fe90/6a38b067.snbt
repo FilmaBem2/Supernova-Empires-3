@@ -1,0 +1,91 @@
+{
+	title: "Start Mining!",
+	x: 0.0d,
+	y: 4.0d,
+	shape: "gear",
+	description: "Make a Wooden Pickaxe",
+	text: [
+		"Apparently some tools and armors are uncraftable. You can't craft tools and armors from Minecraft.",
+		"You will need to make your tools and armor from Tinkers' Construct. Don't worry, I asked you to make the tables you will need. If you don't remenber read some quests' descriptions and you will know how to make your tools and armor.",
+		"",
+		"Objective:",
+		"Make a Wooden Pickaxe",
+		"",
+		"How to Use:",
+		"You can use a Wooden Pickace from Tinkers' Construct like you would use a normal Wooden Pickaxe."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e324811a"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "d7de6573",
+		type: "item",
+		items: [{
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 75,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 7,
+					Durability: 75,
+					HarvestLevel: 0,
+					Attack: 2.0f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"wood",
+						"wood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9fb77d64",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "9aec96f1",
+		type: "xp",
+		xp: 100
+	}]
+}

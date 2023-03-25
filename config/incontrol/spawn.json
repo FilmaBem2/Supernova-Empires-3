@@ -1,0 +1,263 @@
+[
+    {
+        "mob": "minecraft:wither",
+        "dimension": -1,
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:wither",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "minecraft:wither",
+        "dimension": 77,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:armysoldier",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:bandit",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:commando",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:psychosteve",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:skeletonsoldier",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:stormtrooper",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:zombiefarmer",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:zombieminer",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:zombiepigmansoldier",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:zombiepoliceman",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "techguns:zombiesoldier",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "Enderman",
+        "result": "allow",
+        "dimension": 77,
+        "block": "minecraft:grass",
+        "nbt": {
+            "Attributes": [
+                {
+                    "Base": 500.0,
+                    "Name": "generic.maxHealth"
+                }
+            ],
+            "Health": 500.0
+        }
+    },
+    {
+        "mob": "Enderman",
+        "result": "allow",
+        "dimension": 1,
+        "block": "minecraft:end_stone",
+        "nbt": {
+            "Attributes": [
+                {
+                    "Base": 500.0,
+                    "Name": "generic.maxHealth"
+                }
+            ],
+            "Health": 500.0
+        }
+    },
+    {
+        "mob": "Enderman",
+        "result": "allow",
+        "dimension": 0,
+        "block": "minecraft:grass",
+        "nbt": {
+            "Attributes": [
+                {
+                    "Base": 500.0,
+                    "Name": "generic.maxHealth"
+                }
+            ],
+            "Health": 500.0
+        }
+    },
+    {
+        "mob": "blaze",
+        "dimension": 77,
+        "block": "minecraft:stone",
+        "result": "allow"
+    },
+    {
+        "mob": "iceandfire:firedragon",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:icedragon",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:firedragon",
+        "dimension": 77,
+        "result": "allow"
+    },
+    {
+        "mob": "iceandfire:icedragon",
+        "dimension": 77,
+        "result": "allow"
+    },
+    {
+        "mob": "iceandfire:stymphalianbird",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:if_troll",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:myrmex_worker",
+        "dimension": 0,
+        "result": "allow"
+    },
+    {
+        "mob": "iceandfire:myrmex_soldier",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:myrmex_sentinel",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:myrmex_royal",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:myrmex_queen",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:amphithere",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:seaserpent",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_thrall",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_lich",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_knight",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_horse",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:if_hydra",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_ghoul",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_beast",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:dread_scuttler",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:hyppogryph",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:gorgon",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:if_pixie",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:cyclops",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:siren",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:hippocampus",
+        "dimension": 0,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:deathworm",
+        "dimension": 0,
+        "result": "deny"
+    }
+]

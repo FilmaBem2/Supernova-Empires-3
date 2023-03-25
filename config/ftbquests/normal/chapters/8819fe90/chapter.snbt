@@ -1,0 +1,10 @@
+{
+	title: "Mining",
+	icon: {
+		id: "mysticalagriculture:supremium_pickaxe",
+		tag: {}
+	},
+	always_invisible: false,
+	group: -263682911,
+	default_quest_shape: ""
+}

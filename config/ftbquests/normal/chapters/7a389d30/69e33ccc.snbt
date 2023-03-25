@@ -1,0 +1,33 @@
+{
+	title: "Alloying",
+	x: 10.5d,
+	y: -3.5d,
+	shape: "octagon",
+	description: "Make a simple alloy smelter",
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"03713c95",
+		"2e404221"
+	],
+	hide: true,
+	tasks: [{
+		uid: "861dca2b",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "f0c71c42",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "a0b9635f",
+		type: "item",
+		item: "modcurrency:banknote 1 5"
+	}]
+}

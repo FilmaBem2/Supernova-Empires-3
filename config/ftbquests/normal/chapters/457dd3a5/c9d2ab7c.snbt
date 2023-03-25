@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -3.0d,
+	dependencies: [
+		"ac9bdc90"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "50faa879",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	}]
+}

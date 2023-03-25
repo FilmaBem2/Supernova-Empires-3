@@ -1,0 +1,21 @@
+{
+	title: "New LootBoxes",
+	icon: "mekanism:cardboardbox",
+	loot_size: 1,
+	rewards: [{
+		item: "mysticalagriculture:crafting",
+		count: 3,
+		weight: 15
+	},
+	{
+		item: "mysticalagriculture:crafting 1 5",
+		weight: 13
+	},
+	{
+		item: "draconicevolution:draconic_core"
+	},
+	{
+		item: "mysticalagriculture:gear",
+		weight: 6
+	}]
+}

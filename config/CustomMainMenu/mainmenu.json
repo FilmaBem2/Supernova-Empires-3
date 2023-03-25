@@ -1,0 +1,180 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "fbmods:splashlogo.png",
+            "posX" : -200,
+            "posY" : -150,
+            "width" : 400,
+            "height" : 100,
+            "alignment" : "center"
+		},
+        "partners":
+        {
+            "image" : "fbmods:sponsors/bh.png",
+            "posX": 5,
+            "posY": -60,
+            "width": 158,
+            "height": 50,
+            "alignment": "bottom_left"
+        },
+        "butons_back":
+        {
+            "image" : "fbmods:buttons/bricks.png",
+            "posX": 0,
+            "posY": 70,
+            "width": 155,
+            "height": 160,
+            "alignment": "left"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "fbmods.menu.singleplayer",
+            "posX" : 0,
+            "posY" : 80,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/singleplayer.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },        
+        "multiplayer":
+        {
+            "text" : "fbmods.menu.multiplayer",
+            "posX" : 0,
+            "posY" : 100,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/multiplayer.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },        
+        "mods":
+        {
+            "text" : "fbmods.menu.discord",
+            "posX" : 0,
+            "posY" : 160,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/discord.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://discord.gg/ndGYAud"
+            }
+        },		
+        "Donates":
+        {
+            "text" : "fbmods.menu.donates",
+            "posX" : 0,
+            "posY" : 180,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/donate.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.paypal.me/filmabemp"
+            }
+        },					
+        "Server Files":
+        {
+            "text" : "fbmods.menu.server",
+            "posX" : 0,
+            "posY" : 120,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/server.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.bisecthosting.com/filmabem"
+            }
+        },		
+        "options":
+        {
+            "text" : "fbmods.menu.options",
+            "posX" : 0,
+            "posY" : 140,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/options.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },        
+        "quit":
+        {
+            "text" : "fbmods.menu.exit",
+            "posX" : 0,
+            "posY" : 200,
+            "width" : 141,
+            "height" : 20,
+			"alignment" : "left",
+			"texture" : "fbmods:buttons/leave.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+		
+    },
+    "texts":
+    {
+        "curseforge":
+        {
+            "text" : "fbmods.texts.curseforge",
+            "posX" : -75,
+            "posY" : -15,
+            "alignment" : "bottom_center",
+            "color": -1
+        }
+    },
+    "other":
+    {
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+                    "fbmods:backgrounds/Energy_Generation.png",
+                    "fbmods:backgrounds/Energy_Generation_2.png",
+                    "fbmods:backgrounds/Meteor.png",
+                    "fbmods:backgrounds/Selfie_Enderman.png",
+                    "fbmods:backgrounds/Slime_Island.png",
+                    "fbmods:backgrounds/Smeltery.png"
+                ],
+                "displayDuration" : 100,
+                "fadeDuration" : 60
+            }
+        }
+    },
+    "splashes":
+    {
+        "posX": 0,
+        "posY": 0,
+        "color": -256,
+        "alignment": "center",
+        "file": "fbmods:splashes/fbmods4.txt"
+        }
+    }

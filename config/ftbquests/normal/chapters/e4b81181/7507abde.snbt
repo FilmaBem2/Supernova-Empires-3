@@ -1,0 +1,50 @@
+{
+	title: "What happend?",
+	x: 0.0d,
+	y: -1.0d,
+	shape: "hexagon",
+	description: "Make a crafting table",
+	text: [
+		"Looks like your memory is gone. You will need to learn everything from the basic. You need to get wood to make a Crafting Table, but... How to make it?",
+		"",
+		"You can see how you can make a Crafting Table by searching for it on the right side of the screen when on inventory",
+		"",
+		"",
+		"Objective:",
+		"Get wood and craft a Crafting Table",
+		"",
+		"",
+		"",
+		"How to Use:",
+		"Right-Clicking on a crafting table opens the 3×3 crafting grid that allows the player to craft many more items than are available with the crafting grid in the inventory, which is only 2×2. "
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b2eddf75",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "workbench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any workbench"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b167d67a",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "d38aab9f",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -24.0d,
+	y: -7.0d,
+	dependencies: [
+		"437a396c"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "881e1ce3",
+		type: "item",
+		items: [{
+			item: "extrautils2:redstonelantern"
+		}]
+	}]
+}

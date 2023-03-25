@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	dependencies: [
+		"d1322576"
+	],
+	optional: true,
+	tasks: [{
+		uid: "d3525068",
+		type: "item",
+		items: [{
+			item: "redstonepaste:stickycomparator"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: -7.0d,
+	shape: "diamond",
+	dependencies: [
+		"276df756"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4af52a0f",
+		type: "item",
+		items: [{
+			item: "mekanism:reinforcedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "3247feca",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "c8bee3d6",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

@@ -1,0 +1,16 @@
+recipes.remove(<mekanism:transmitter>.withTag({tier: 0}));
+recipes.remove(<mekanism:transmitter>.withTag({tier: 1}));
+recipes.remove(<mekanism:transmitter>.withTag({tier: 2}));
+recipes.remove(<mekanism:transmitter>.withTag({tier: 3}));
+recipes.remove(<mekanism:transmitter:1>.withTag({tier: 0}));
+recipes.remove(<mekanism:transmitter:1>.withTag({tier: 1}));
+recipes.remove(<mekanism:transmitter:1>.withTag({tier: 2}));
+recipes.remove(<mekanism:transmitter:1>.withTag({tier: 3}));
+recipes.remove(<mekanism:transmitter:2>.withTag({tier: 0}));
+recipes.remove(<mekanism:transmitter:2>.withTag({tier: 1}));
+recipes.remove(<mekanism:transmitter:2>.withTag({tier: 2}));
+recipes.remove(<mekanism:transmitter:2>.withTag({tier: 3}));
+recipes.remove(<mekanism:transmitter:3>.withTag({tier: 0}));
+recipes.remove(<mekanism:transmitter:3>.withTag({tier: 1}));
+recipes.remove(<mekanism:transmitter:3>.withTag({tier: 2}));
+recipes.remove(<mekanism:transmitter:3>.withTag({tier: 3}));

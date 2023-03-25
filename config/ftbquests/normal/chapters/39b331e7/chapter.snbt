@@ -1,0 +1,7 @@
+{
+	title: "Forge",
+	icon: "minecraft:anvil",
+	always_invisible: false,
+	group: -263682911,
+	default_quest_shape: ""
+}

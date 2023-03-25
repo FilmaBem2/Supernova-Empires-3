@@ -1,0 +1,7 @@
+{
+	title: "Core",
+	icon: "mysticalagriculture:gear 1 9",
+	always_invisible: false,
+	group: 1829671587,
+	default_quest_shape: ""
+}

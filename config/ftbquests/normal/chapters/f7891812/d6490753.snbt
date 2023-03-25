@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: -1.5d,
+	dependencies: [
+		"c9d7de3d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "84b56dfb",
+		type: "item",
+		items: [{
+			id: "mysticalagriculture:supremium_bow",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9ba4cefa",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

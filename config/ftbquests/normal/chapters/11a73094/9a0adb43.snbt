@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "accf9234",
+		type: "item",
+		items: [{
+			id: "rats:rat_upgrade_blacklist",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

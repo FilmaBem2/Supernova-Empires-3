@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: 3.5d,
+	dependencies: [
+		"5207431f",
+		"c3efb31d"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "386a9793",
+		type: "item",
+		items: [{
+			item: "rats:rat_upgrade_strength"
+		}]
+	}]
+}

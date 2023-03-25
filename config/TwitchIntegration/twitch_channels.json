@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "name": "FilmaBem",
+      "subscribersOnly": false,
+      "channelId": 86636301,
+      "deletedMessages": "Replace",
+      "active": true
+    }
+  ]
+}

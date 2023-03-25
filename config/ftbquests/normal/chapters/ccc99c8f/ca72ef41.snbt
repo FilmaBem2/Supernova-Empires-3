@@ -1,0 +1,30 @@
+{
+	title: "Enderman Smelter",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Make an Ender Furnace",
+	text: [
+		""
+	],
+	dependencies: [
+		"88296d0f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f63ca3b7",
+		type: "item",
+		items: [{
+			item: "enderutilities:machine_0"
+		}]
+	}],
+	rewards: [{
+		uid: "a1ff0020",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "5486890e",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Upgrades",
+	icon: "ironchest:wood_iron_chest_upgrade",
+	always_invisible: false,
+	group: -263682911,
+	default_quest_shape: ""
+}

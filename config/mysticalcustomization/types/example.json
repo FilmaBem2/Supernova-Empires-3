@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "stem": "mysticalagriculture:block/mystical_mob_crop"
+  },
+  "craftingSeed": "mysticalagriculture:prosperity_seed_base"
+}

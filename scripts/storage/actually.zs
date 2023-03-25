@@ -1,0 +1,2 @@
+recipes.addShaped(<actuallyadditions:block_giant_chest_large>, [[null, null, null],[null, <actuallyadditions:block_giant_chest_medium>, null], [null, null, null]]);
+recipes.addShaped(<actuallyadditions:block_giant_chest_medium>, [[null, null, null],[null, <actuallyadditions:block_giant_chest>, null], [null, null, null]]);

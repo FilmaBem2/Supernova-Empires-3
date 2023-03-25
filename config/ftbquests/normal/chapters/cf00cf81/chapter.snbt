@@ -1,0 +1,7 @@
+{
+	title: "Loot Boxes",
+	icon: "mekanism:cardboardbox",
+	always_invisible: false,
+	group: 111787394,
+	default_quest_shape: ""
+}

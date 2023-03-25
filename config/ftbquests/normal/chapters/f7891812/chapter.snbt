@@ -1,0 +1,10 @@
+{
+	title: "Weapon",
+	icon: {
+		id: "mysticalagriculture:supremium_sword",
+		tag: {}
+	},
+	always_invisible: false,
+	group: 1829671587,
+	default_quest_shape: ""
+}

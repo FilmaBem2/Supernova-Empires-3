@@ -1,0 +1,41 @@
+{
+	title: "Draconic Injector",
+	x: -0.5d,
+	y: 1.5d,
+	shape: "pentagon",
+	description: "Upgrade Fusion Crafting Injector to Draconic Tier",
+	text: [
+		""
+	],
+	dependencies: [
+		"ae539160"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3cef8de9",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "a02577fd",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "802d8a61",
+		type: "custom",
+		auto: "invisible"
+	},
+	{
+		uid: "5c0bf3c6",
+		type: "custom",
+		auto: "invisible"
+	},
+	{
+		uid: "9dda4fad",
+		type: "custom",
+		auto: "invisible"
+	}]
+}

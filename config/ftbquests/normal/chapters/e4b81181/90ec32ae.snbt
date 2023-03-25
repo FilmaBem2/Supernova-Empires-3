@@ -1,0 +1,39 @@
+{
+	title: "Time to Make an Armor",
+	x: 0.5d,
+	y: 5.0d,
+	shape: "gear",
+	description: "Make an Armor Station",
+	text: [
+		"Armor! You will need one to continue your journey to get you items back and give that boss the payback.",
+		"",
+		"I don't know the name of that boss, but i'll find it for you",
+		"",
+		"Objective:",
+		"Make an Armor Station",
+		"",
+		"How to Use:",
+		"The Armor Station usage is the same as the Tool Station"
+	],
+	dependencies: [
+		"b5bb18c7"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6f97ce51",
+		type: "item",
+		items: [{
+			item: "conarm:armorstation"
+		}]
+	}],
+	rewards: [{
+		uid: "9204585e",
+		type: "random",
+		table: 4
+	},
+	{
+		uid: "f90783d3",
+		type: "xp",
+		xp: 100
+	}]
+}

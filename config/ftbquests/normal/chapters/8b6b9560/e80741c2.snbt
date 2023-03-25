@@ -1,0 +1,25 @@
+{
+	x: 5.5d,
+	y: -5.0d,
+	shape: "diamond",
+	dependencies: [
+		"24e4e85e"
+	],
+	tasks: [{
+		uid: "f172a56e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:draconic_control_circuit"
+		}]
+	}],
+	rewards: [{
+		uid: "eae7442b",
+		type: "random",
+		table: 3
+	},
+	{
+		uid: "e0a5c3eb",
+		type: "custom",
+		auto: "invisible"
+	}]
+}
