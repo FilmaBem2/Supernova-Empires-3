@@ -11,6 +11,5 @@ tips.addTip("To access quests open you inventory and click on book icon on top l
 tips.addTip("Quests give you money to buy things")
 tips.addTip("Only need 30% of players to sleep on this modpack servers or multiplayer worlds")
 tips.addTip("If you like this modpack please make a donation on curseforge")
-tips.addTip("FB Mods uses Ely.by skin system for skins")
-tips.addTip("Don't forget to test another FB Mods Modpacks")
-tips.addTip("Hope you enojoy FB Mods 4")
+tips.addTip("Don't forget to test another Supernova Empires Modpacks")
+tips.addTip("Hope you enojoy Supernova Empires 3")
