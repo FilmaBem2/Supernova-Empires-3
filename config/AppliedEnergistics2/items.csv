@@ -5394,7 +5394,7 @@ chisel:wool_orange:1, Orange Wool
 chisel:wool_white:0, Wool
 chisel:wool_white:1, Wool
 forge:bucketfilled, %s Bucket
-securitycraft:laser_block, Laser Block
+securitycraft:laser_block, Laser Block 
 securitycraft:keypad, Keypad
 securitycraft:mine, Mine
 securitycraft:retinal_scanner, Retinal Scanner
@@ -5406,7 +5406,7 @@ securitycraft:keycard_reader, Keycard Reader
 securitycraft:reinforced_iron_trapdoor, Reinforced Iron Trapdoor
 securitycraft:bouncing_betty, Bouncing Betty
 securitycraft:inventory_scanner, Inventory Scanner
-securitycraft:track_mine, Rail Mine
+securitycraft:track_mine, Track Mine
 securitycraft:cage_trap, Cage Trap
 securitycraft:portable_radar, Portable Radar
 securitycraft:reinforced_iron_bars, Reinforced Iron Bars
@@ -5449,7 +5449,7 @@ securitycraft:reinforced_stairs_acacia, Reinforced Acacia Stairs
 securitycraft:reinforced_stairs_darkoak, Reinforced Dark Oak Stairs
 securitycraft:reinforced_stairs_stone, Reinforced Stone Stairs
 securitycraft:electrified_iron_fence, Electrified Iron Fence
-securitycraft:ims, Intelligent Munitions System
+securitycraft:ims, Intelligent Munitions System 
 securitycraft:reinforced_glass_block, Reinforced Glass
 securitycraft:reinforced_stained_glass:0, Reinforced White Stained Glass
 securitycraft:reinforced_stained_glass:1, Reinforced Orange Stained Glass
@@ -5632,8 +5632,6 @@ securitycraft:reinforced_wooden_pressure_plate, Reinforced Wooden Pressure Plate
 securitycraft:reinforced_bookshelf, Reinforced Bookshelf
 securitycraft:reinforced_walls:0, Reinforced Cobblestone Wall
 securitycraft:reinforced_walls:1, Reinforced Mossy Cobblestone Wall
-securitycraft:reinforced_sticky_piston, Reinforced Sticky Piston
-securitycraft:reinforced_piston, Reinforced Piston
 securitycraft:reinforced_observer, Reinforced Observer
 securitycraft:reinforced_redstone_lamp, Reinforced Redstone Lamp
 securitycraft:reinforced_cobweb, Reinforced Cobweb
@@ -5641,7 +5639,7 @@ securitycraft:reinforced_grass, Reinforced Grass
 securitycraft:reinforced_snow_block, Reinforced Snow Block
 securitycraft:reinforced_ice, Reinforced Ice
 securitycraft:reinforced_packed_ice, Reinforced Packed Ice
-securitycraft:reinforced_mycelium, Reinforced Mycelium
+securitycraft:reinforced_mycelium, Reinfored Mycelium
 securitycraft:reinforced_clay, Reinforced Clay
 securitycraft:reinforced_nether_wart_block, Reinforced Nether Wart Block
 securitycraft:reinforced_grass_path, Reinforced Grass Path
@@ -5651,34 +5649,11 @@ securitycraft:reinforced_lever, Reinforced Lever
 securitycraft:reinforced_hopper, Reinforced Hopper
 securitycraft:projector, Projector
 securitycraft:reinforced_cauldron, Reinforced Cauldron
-securitycraft:sonic_security_system, Sonic Security System
-securitycraft:block_change_detector, Block Change Detector
-securitycraft:reinforced_end_rod, Reinforced End Rod
-securitycraft:reinforced_white_glazed_terracotta, Reinforced White Glazed Terracotta
-securitycraft:reinforced_orange_glazed_terracotta, Reinforced Orange Glazed Terracotta
-securitycraft:reinforced_magenta_glazed_terracotta, Reinforced Magenta Glazed Terracotta
-securitycraft:reinforced_light_blue_glazed_terracotta, Reinforced Light Blue Glazed Terracotta
-securitycraft:reinforced_yellow_glazed_terracotta, Reinforced Yellow Glazed Terracotta
-securitycraft:reinforced_lime_glazed_terracotta, Reinforced Lime Glazed Terracotta
-securitycraft:reinforced_pink_glazed_terracotta, Reinforced Pink Glazed Terracotta
-securitycraft:reinforced_gray_glazed_terracotta, Reinforced Gray Glazed Terracotta
-securitycraft:reinforced_silver_glazed_terracotta, Reinforced Light Gray Glazed Terracotta
-securitycraft:reinforced_cyan_glazed_terracotta, Reinforced Cyan Glazed Terracotta
-securitycraft:reinforced_purple_glazed_terracotta, Reinforced Purple Glazed Terracotta
-securitycraft:reinforced_blue_glazed_terracotta, Reinforced Blue Glazed Terracotta
-securitycraft:reinforced_brown_glazed_terracotta, Reinforced Brown Glazed Terracotta
-securitycraft:reinforced_green_glazed_terracotta, Reinforced Green Glazed Terracotta
-securitycraft:reinforced_red_glazed_terracotta, Reinforced Red Glazed Terracotta
-securitycraft:reinforced_black_glazed_terracotta, Reinforced Black Glazed Terracotta
-securitycraft:rift_stabilizer, Rift Stabilizer
-securitycraft:display_case, Display Case
 securitycraft:stone_mine, Stone Mine
 securitycraft:dirt_mine, Dirt Mine
 securitycraft:cobblestone_mine, Cobblestone Mine
 securitycraft:sand_mine, Sand Mine
 securitycraft:gravel_mine, Gravel Mine
-securitycraft:netherrack_mine, Netherrack Mine
-securitycraft:end_stone_mine, End Stone Mine
 securitycraft:gold_mine, Gold Ore Mine
 securitycraft:iron_mine, Iron Ore Mine
 securitycraft:coal_mine, Coal Ore Mine
@@ -5689,7 +5664,7 @@ securitycraft:emerald_mine, Emerald Ore Mine
 securitycraft:quartz_mine, Nether Quartz Ore Mine
 securitycraft:furnace_mine, Furnace Mine
 securitycraft:codebreaker, Codebreaker
-securitycraft:door_indestructible_iron_item, Reinforced Door
+securitycraft:door_indestructible_iron_item, Reinforced Iron Door
 securitycraft:scanner_door_item, Scanner Door
 securitycraft:universal_block_remover, Universal Block Remover
 securitycraft:keycard_lv1, Level 1 Keycard
@@ -5728,7 +5703,6 @@ securitycraft:secret_sign_item, Secret Sign
 securitycraft:sentry, Sentry
 securitycraft:crystal_quartz_item, Crystal Quartz
 securitycraft:keypad_door_item, Keypad Door
-securitycraft:portable_tune_player, Portable Tune Player
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -9040,6 +9014,46 @@ appliedenergistics2:facade:0, Cable Facade - Dry Peat Bog
 appliedenergistics2:facade:0, Cable Facade - Saturated Peat Deposit
 appliedenergistics2:facade:0, Cable Facade - Soundproofing
 appliedenergistics2:facade:0, Cable Facade - Shearing Block
+appliedenergistics2:facade:0, Cable Facade - Blue Bricks
+appliedenergistics2:facade:0, Cable Facade - Black Bricks
+appliedenergistics2:facade:0, Cable Facade - Red Bricks
+appliedenergistics2:facade:0, Cable Facade - White Bricks
+appliedenergistics2:facade:0, Cable Facade - Yellow Bricks
+appliedenergistics2:facade:0, Cable Facade - Green Bricks
+appliedenergistics2:facade:0, Cable Facade - Blue Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Red Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Green Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Yellow Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Base Jail
+appliedenergistics2:facade:0, Cable Facade - Wooden Jail
+appliedenergistics2:facade:0, Cable Facade - Iron Jail
+appliedenergistics2:facade:0, Cable Facade - Gold Jail
+appliedenergistics2:facade:0, Cable Facade - Diamond Jail
+appliedenergistics2:facade:0, Cable Facade - Emerald Jail
+appliedenergistics2:facade:0, Cable Facade - Lapiz Lazuli Jail
+appliedenergistics2:facade:0, Cable Facade - Redstone Jail
+appliedenergistics2:facade:0, Cable Facade - Black Planks
+appliedenergistics2:facade:0, Cable Facade - Cyan Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Blue Planks
+appliedenergistics2:facade:0, Cable Facade - Gray Planks
+appliedenergistics2:facade:0, Cable Facade - Green Planks
+appliedenergistics2:facade:0, Cable Facade - Light Blue Planks
+appliedenergistics2:facade:0, Cable Facade - Orange Planks
+appliedenergistics2:facade:0, Cable Facade - Pink Planks
+appliedenergistics2:facade:0, Cable Facade - Purple Planks
+appliedenergistics2:facade:0, Cable Facade - Red Planks
+appliedenergistics2:facade:0, Cable Facade - Yellow Planks
+appliedenergistics2:facade:0, Cable Facade - Black Log
+appliedenergistics2:facade:0, Cable Facade - Cyan Log
+appliedenergistics2:facade:0, Cable Facade - Dark Blue Log
+appliedenergistics2:facade:0, Cable Facade - Gray Log
+appliedenergistics2:facade:0, Cable Facade - Green Log
+appliedenergistics2:facade:0, Cable Facade - Light Blue Log
+appliedenergistics2:facade:0, Cable Facade - Orange Log
+appliedenergistics2:facade:0, Cable Facade - Pink Log
+appliedenergistics2:facade:0, Cable Facade - Purple Log
+appliedenergistics2:facade:0, Cable Facade - Red Log
+appliedenergistics2:facade:0, Cable Facade - Yellow Log
 appliedenergistics2:facade:0, Cable Facade - Compact Raw Porkchop
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
@@ -11046,41 +11060,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Boots Core Pattern
 tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -14957,80 +14971,80 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Polishing Kit Cast
 tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Boots Core Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
 tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -19351,24 +19365,6 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -19489,6 +19485,28 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+lucky:lucky_block, Lucky Block
+lucky:lucky_sword, Lucky Sword
+lucky:lucky_bow, Lucky Bow
+lucky:lucky_potion, Lucky Potion
 mekanismgenerators:solarpanel, Solar Panel
 mekanismgenerators:hohlraum, Hohlraum
 mekanismgenerators:turbineblade, Turbine Blade
@@ -24228,6 +24246,46 @@ chiselsandbits:block_bit:0, Chiseled Bit - End Diamond Ore
 chiselsandbits:block_bit:0, Chiseled Bit - End Gold Ore
 chiselsandbits:block_bit:0, Chiseled Bit - End Iron Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Soundproofing
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Black Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Red Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - White Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Green Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Red Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Green Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Stone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Base Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Wooden Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Iron Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Gold Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Diamond Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Emerald Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Lapiz Lazuli Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Redstone Jail
+chiselsandbits:block_bit:0, Chiseled Bit - Black Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Blue Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Green Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Red Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Black Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Blue Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Green Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Red Log Down
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Log Down
 chiselsandbits:block_bit:0, Chiseled Bit - Compact Raw Porkchop
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -24557,7 +24615,6 @@ cyclicmagic:book_ender, Ender Book
 cyclicmagic:carbon_paper, Carbon Paper
 cyclicmagic:tool_spelunker, Cavefinder
 cyclicmagic:ender_dungeon, Spawner Seeker
-cyclicmagic:ender_fishing, Alluring Fishhook
 cyclicmagic:ender_lightning, Engraved Thunder
 cyclicmagic:cyclic_wand_build, Ranged Building Scepter
 cyclicmagic:shears_obsidian, Obsidian Shears
@@ -24662,6 +24719,110 @@ cyclicmagic:fluid_placer, Fluid Placer
 cyclicmagic:water_candle, Water Candle
 deathnote:death_note_page, Death Note Page
 deathnote:death_note, Death Note
+fbmodsblocks:bluebricks, Blue Bricks
+fbmodsblocks:blackbricks, Black Bricks
+fbmodsblocks:redbricks, Red Bricks
+fbmodsblocks:whitebricks, White Bricks
+fbmodsblocks:yellowbricks, Yellow Bricks
+fbmodsblocks:greenbricks, Green Bricks
+fbmodsblocks:bluestonebrick, Blue Stone Bricks
+fbmodsblocks:redstonebrick, Red Stone Bricks
+fbmodsblocks:greenstonebrick, Green Stone Bricks
+fbmodsblocks:yellowstonebrick, Yellow Stone Bricks
+fbmodsblocks:basejail, Base Jail
+fbmodsblocks:woodenjail, Wooden Jail
+fbmodsblocks:ironjail, Iron Jail
+fbmodsblocks:goldjail, Gold Jail
+fbmodsblocks:diamondjail, Diamond Jail
+fbmodsblocks:emeraldjail, Emerald Jail
+fbmodsblocks:lapizjail, Lapiz Lazuli Jail
+fbmodsblocks:redstonejail, Redstone Jail
+fbmodsblocks:blackplanks, Black Planks
+fbmodsblocks:cyanplanks, Cyan Planks
+fbmodsblocks:darkblueplanks, Dark Blue Planks
+fbmodsblocks:greyplanks, Gray Planks
+fbmodsblocks:greenplanks, Green Planks
+fbmodsblocks:lightblueplanks, Light Blue Planks
+fbmodsblocks:orangeplanks, Orange Planks
+fbmodsblocks:pinkplanks, Pink Planks
+fbmodsblocks:purpleplanks, Purple Planks
+fbmodsblocks:redplanks, Red Planks
+fbmodsblocks:yellowplanks, Yellow Planks
+fbmodsblocks:blackslab:0, Black Slab
+fbmodsblocks:blackplanksstair, Black Stairs
+fbmodsblocks:blackplanksfence, Black Fence
+fbmodsblocks:blackplankstrapdor, Black Trapdoor
+fbmodsblocks:cyanplanksslab:0, Cyan Slab
+fbmodsblocks:cyanplanksstair, Cyan Stairs
+fbmodsblocks:cyanplanksfence, Cyan Fence
+fbmodsblocks:cyanplankstrapdoor, Cyan Trapdoor
+fbmodsblocks:darkblueplanksslab:0, Dark Blue Slab
+fbmodsblocks:darkblueplanksstair, Dark Blue Stairs
+fbmodsblocks:darkblueplanksfence, Dark Blue Fence
+fbmodsblocks:darkblueplankstrapdoor, Dark Blue Trapdoor
+fbmodsblocks:greyplanksslab:0, Gray Slab
+fbmodsblocks:greyplanksstair, Gray Stairs
+fbmodsblocks:greyplanksfence, Gray Fence
+fbmodsblocks:greyplanksfencetrapdoor, Gray Trapdoor
+fbmodsblocks:greenplanksslab:0, Green Slab
+fbmodsblocks:greenplanksstair, Green Stairs
+fbmodsblocks:greenplanksfence, Green Fence
+fbmodsblocks:greenplankstrapdoor, Green Trapdoor
+fbmodsblocks:lightblueplanksslab:0, Light Blue Slab
+fbmodsblocks:lightblueplanksstair, Light Blue Stairs
+fbmodsblocks:lightblueplanksfence, Light Blue Fence
+fbmodsblocks:lightblueplankstrapdoor, Light Blue Trapdoor
+fbmodsblocks:orangeplanksslab:0, Orange Slab
+fbmodsblocks:orangeplanksstair, Orange Stairs
+fbmodsblocks:orangeplanksfence, Orange Fence
+fbmodsblocks:orangeplankstrapdoor, Orange Trapdoor
+fbmodsblocks:pinkplanksslab:0, Pink Slab
+fbmodsblocks:pinkplanksstair, Pink Stairs
+fbmodsblocks:pinkplanksfence, Pink Fence
+fbmodsblocks:pinkplankstrapdoor, Pink Trapdoor
+fbmodsblocks:purpleplanksslab:0, Purple Slab
+fbmodsblocks:purpleplanksstair, Purple Stairs
+fbmodsblocks:purpleplanksfence, Purple Fence
+fbmodsblocks:purpleplankstrapdoor, Purple Trapdoor
+fbmodsblocks:redplanksslab:0, Red Slab
+fbmodsblocks:redplanksstair, Red Stairs
+fbmodsblocks:redplanksfence, Red Fence
+fbmodsblocks:redplankstrapdoor, Red Trapdoor
+fbmodsblocks:yellowplanksslab:0, Yellow Slab
+fbmodsblocks:yellowplanksstair, Yellow Stairs
+fbmodsblocks:yellowplanksfence, Yellow Fence
+fbmodsblocks:yellowplankstrapdoor, Yellow Trapdoor
+fbmodsblocks:blubrickslab:0, Blue Bricks Slab
+fbmodsblocks:blkbrickslab:0, Black Bricks Slab
+fbmodsblocks:redbrickslab:0, Red Bricks Slab
+fbmodsblocks:whibrickslab:0, White Bricks Slab
+fbmodsblocks:yellbrickslab:0, Yellow Bricks Slab
+fbmodsblocks:geenbrickslav:0, Green Bricks Slab
+fbmodsblocks:blubrkstr, Blue Bricks Stairs
+fbmodsblocks:blkbrkstr, Black Bricks Stairs
+fbmodsblocks:redbricksstr, Red Bricks Stairs
+fbmodsblocks:whitebricksstairs, White Bricks Stairs
+fbmodsblocks:yellowbricksstairs, Yellow Bricks Stairs
+fbmodsblocks:greenbrickstairs, Green Brick Stairs
+fbmodsblocks:bluestonebricksslab:0, Blue Stone Bricks Slab
+fbmodsblocks:redstonebricksslab:0, Red Stone Bricks Slab
+fbmodsblocks:greenstonebricksslabs:0, Green Stone Bricks Slabs
+fbmodsblocks:yellowstonebricksslab:0, Yellow Stone Bricks Slab
+fbmodsblocks:bluestonebricksstairs, Blue Stone Bricks Stairs
+fbmodsblocks:redstonebricksstairs, Red Stone Bricks Stairs
+fbmodsblocks:greenstonebricksstairs, Green Stone Bricks Stairs
+fbmodsblocks:yellowstonebricksstairs, Yellow Stone Bricks Stairs
+fbmodsblocks:blacklog, Black Log
+fbmodsblocks:cyanlog, Cyan Log
+fbmodsblocks:darkbluelog, Dark Blue Log
+fbmodsblocks:graylog, Gray Log
+fbmodsblocks:geenlog, Green Log
+fbmodsblocks:lightbluelog, Light Blue Log
+fbmodsblocks:orangelog, Orange Log
+fbmodsblocks:pinklog, Pink Log
+fbmodsblocks:purplelog, Purple Log
+fbmodsblocks:redlog, Red Log
+fbmodsblocks:yellowlog, Yellow Log
 ichunutil:compact_porkchop, Compact Raw Porkchop
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
@@ -24831,18 +24992,6 @@ industrialforegoing:conveyor:14, Red§r Conveyor Belt
 industrialforegoing:conveyor:15, Black§r Conveyor Belt
 industrialforegoing:black_hole_label, Black Hole Label
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
-threng:machine:0, Fluix Aggregator
-threng:machine:1, Pulse Centrifuge
-threng:machine:2, ME Circuit Etcher
-threng:machine:3, Preemptive Assembly Unit
-threng:machine:4, ME Level Maintainer
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Mass Assembler Frame
-threng:big_assembler:1, Mass Assembler Vent
-threng:big_assembler:2, Mass Assembler Controller
-threng:big_assembler:3, MA Pattern Provider
-threng:big_assembler:4, MA Crafting Coprocessor
-threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Fluix Steel Ingot
 threng:material:1, Carbonic Fluix Complex
 threng:material:2, Fluix-Plated Iron Ingot
@@ -24858,6 +25007,18 @@ threng:material:11, Speculation Core (16x)
 threng:material:12, Speculation Core (32x)
 threng:material:13, Speculation Core (64x)
 threng:material:14, Speculative Processor
+threng:machine:0, Fluix Aggregator
+threng:machine:1, Pulse Centrifuge
+threng:machine:2, ME Circuit Etcher
+threng:machine:3, Preemptive Assembly Unit
+threng:machine:4, ME Level Maintainer
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Mass Assembler Frame
+threng:big_assembler:1, Mass Assembler Vent
+threng:big_assembler:2, Mass Assembler Controller
+threng:big_assembler:3, MA Pattern Provider
+threng:big_assembler:4, MA Crafting Coprocessor
+threng:big_assembler:5, Mass Assembler IO Port
 patchouli:guide_book, Guide Book
 redstonepaste:redstonepaste, Redstone Paste
 redstonepaste:stickyrepeater, Sticky Repeater

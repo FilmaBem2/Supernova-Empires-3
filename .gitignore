@@ -22,3 +22,5 @@ journeymap/data/
 journeymap/server/
 usernamecache.json
 usercache.json
+instance.json
+instance.png
