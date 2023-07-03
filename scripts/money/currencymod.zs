@@ -1,1 +1,0 @@
-recipes.addShaped(<modcurrency:coin:4>, [[<modcurrency:coin:3>, <modcurrency:coin:3>, null],[<modcurrency:coin:3>, <modcurrency:coin:3>, null], [null, null, null]]);
